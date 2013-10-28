@@ -1,3 +1,6 @@
+/*Importing custom fonts*/
+@import url(http://thecodeplayer.com/uploads/fonts/fontawesome/css/font-awesome.min.css);
+@import url(http://fonts.googleapis.com/css?family=Bitter:400,700);
 /* INITIAL CONDITION FOR ALL TAGS */
 
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, 
@@ -13,7 +16,6 @@ details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary
         background: transparent;
 }
 
-@import url(http://fonts.googleapis.com/css?family=Bitter:400,700);
 
 /* CENTERING THE BODY */
 
@@ -145,45 +147,105 @@ aside{
 }
 
 footer{
-        clear:both;
-        width:98%;
-        margin-left:1%;
-        margin-right:1%;
-        background:pink;
+	clear:both;
+	width:98%;
+	margin-left:1%;
+	margin-right:1%;
+	text-align:center;
+	font-family: Monaco, Consolas, "Lucida Console", monospace;
+	font-size:12px;
 }
 
-aside span#edition{
-        text-shadow: -1px -1px 0px rgba(255,255,255,0.3), 1px 1px 0px rgba(0,0,0,0.8);
-        color: #333;
-        opacity: 0.4;
-        font: 700 20px 'Bitter';
-        margin-left:34%;
+footer span{
+	font-weight:bolder;
+	text-transform: uppercase;
+}
+
+aside header{
+	border:none;
+	background:transparent;
+	height:14%;
+	width:100%;	
+	text-shadow: -1px -1px 0px rgba(255,255,255,0.3), 1px 1px 0px rgba(0,0,0,0.8);
+	color: #333;
+	opacity: 0.4;
+	font: 700 20px 'Bitter';
+	margin-left:33%;
 }
 
 aside section {
-        width:30%;
-        float:left;
-        margin-left:2.5%;
-        margin-top:1%;
-        padding-top: 4%;
+	width:30%;
+	float:left;
+	margin-left:2.5%;
+	margin-top:10px;
+}
+
+aside section header{
+	border:none;
+	background:transparent;
+	text-shadow:none;
+	opacity:1;
+	font-family: "Lucida Grande", Tahoma;
+	font-size: 10px;
+	font-weight: lighter;
+	font-variant: normal;
+	text-transform: uppercase;
+	color: #666666;
+	text-align: center!important;
+	letter-spacing: 0.3em;
+	margin-bottom:10px;
+	margin-left:0;
 }
 
 aside section#middle{
-        border-right: 2px dashed orange;
-        border-left: 2px dashed orange;
-        padding-left: 2%;
+	border-right: 2px dashed orange;
+	border-left: 2px dashed orange;
+	padding-left: 2%;
 }
 
 aside section ul {
-        list-style:none;
-        font-family: helvetica;
-        font-size:10px;
+	list-style:none;
+	font-family: helvetica;
+	font-size:10px;
 }
 
-
-
 aside section ul li span{
-        font-size:12px;
-        font-weight:bold;
-        margin-right: 4px;
+	font-size:12px;
+	font-weight:bold;
+	margin-right: 4px;
+}
+
+.icons {
+	display:inline;
+	width: 150px;
+}
+.icons i {
+	display: block;
+	font-size: 20px;
+	line-height: 30px; width: 30px;
+	text-align: center;
+}
+.icons a {
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 16px;
+	position: relative;
+}
+
+.tw {
+	background: #00ACF0;
+	color:white;
+}
+.tw:hover{
+	background: white;
+	color: #00ACF0;
+}
+.fb {
+	background: #3B5997;
+	color:white;	
+}
+
+.fb:hover {
+	background: white;
+	color:#3B5997;	
 }
