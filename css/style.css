@@ -30,6 +30,7 @@ header{
 	margin-bottom:20px;
 }
 
+/*
 nav{
 	position:fixed;
 	width: 15%;
@@ -37,6 +38,71 @@ nav{
 	background:grey;
 	top:55px;
 	left:1.125%;
+}
+*/
+
+
+
+
+/*NAV lateral ixquierdo*/
+nav{
+	position:fixed;	
+	border-radius: 10px;
+	background-color: #000000;
+	margin-left: 6px;
+	width: 110px;
+}
+
+
+ul.lista
+{
+   list-style:none;  
+}
+
+nav ul li {
+	padding: 5px;
+	color:white;
 	
-	
+}
+
+ul.lista li
+{
+   position:relative;
+   width:85px;
+   left: 0px;
+   
+}
+
+ul.lista ul
+{
+   position:absolute;
+   left:48px; 
+   top:-1px;
+   display:none;
+   list-style:none;
+   background-color:#000000;
+   border-radius: 10px;
+   margin-left: 50px;
+   width: 80px;
+}
+
+ul.lista li:hover > ul
+{
+   display:block;
+}
+
+ul.lista li ul li{
+	width: 100px;
+	left: -15px;	
+	padding-left: 23px;
+}
+
+ul.lista li ul{
+	border-radius: 10px;
+	width: 105px;
+	top:1px
+}
+
+ul.lista li:hover{
+	color:orange;
 }
