@@ -20,7 +20,7 @@ details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary
 
 header{
         width:100%;
-        height:50px;
+        height:40px;
         border:1px solid;
         background:lightblue;
 }
@@ -92,18 +92,27 @@ aside{
         left:8%;
 }
 
-#onieva{
-        margin-left:2%;
-        width: 65%;
-        height: 300px;
-        border:#FF0030 2px dashed;
+#section1{
+	margin-left:2%;
+	width: 75%;
+	height: 45%;
+/*	height: 350px;*/
+	border:#FF0030 4px dashed;
+	min-height: 40%;
+	min-width: 50%;
 }
 
-#imagen_onieva{
-        position:absolute;
-        top:2%;
-        left:75%;
+
+.sangria_text{
+	padding-left: 30px;
 }
+
+#img_right{
+	position:absolute;
+	top:2%;
+	left:80%;
+}
+
 
 #img_abajo{
         position:absolute;
@@ -114,10 +123,25 @@ aside{
 #last{
         float:right;
         width:80%;
-        height:200px;
+        height:210px;
         background:yellow;
         margin-top:1%;
         margin-bottom:1%;
+}
+
+.section4, .section6{
+	float:left;
+	width: 38%;	
+	height: 20%;
+}
+
+.section5{
+	float:left;
+	width: 22%;	
+	margin-top: 3%;
+	margin-left: 1%;
+	margin-right: 1%;
+	height: 18%;
 }
 
 footer{
