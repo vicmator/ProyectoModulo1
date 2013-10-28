@@ -12,6 +12,9 @@ details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary
 	vertical-align: baseline;
 	background: transparent;
 }
+
+@import url(http://fonts.googleapis.com/css?family=Bitter:400,700);
+
 /* CENTERING THE BODY */
 
 
@@ -71,6 +74,8 @@ aside{
   -webkit-border-radius: 20px 0px 0px 20px;
   -moz-border-radius: 20px 0px 0px 20px;
   border-radius: 20px 0px 0px 20px;
+  -webkit-box-shadow: 0px 5px 5px #999999;
+  -moz-box-shadow: 0px 5px 5px #999999;
   box-shadow: 0px 5px 5px #999999;
   border-left: 2px solid #E9B64D;
   border-top:2px solid #E9B64D;
@@ -122,5 +127,43 @@ footer{
 	margin-right:1%;
 	background:pink;
 }
+
+aside span#edition{
+	text-shadow: -1px -1px 0px rgba(255,255,255,0.3), 1px 1px 0px rgba(0,0,0,0.8);
+	color: #333;
+	opacity: 0.4;
+	font: 700 20px 'Bitter';
+	margin-left:34%;
+}
+
+aside section {
+	width:30%;
+	float:left;
+	margin-left:2.5%;
+	margin-top:1%;
+	padding-top: 4%;
+}
+
+aside section#middle{
+	border-right: 2px dashed orange;
+	border-left: 2px dashed orange;
+	padding-left: 2%;
+}
+
+aside section ul {
+	list-style:none;
+	font-family: helvetica;
+	font-size:10px;
+}
+
+
+
+aside section ul li span{
+	font-size:12px;
+	font-weight:bold;
+	margin-right: 4px;
+}
+
+
 
 
