@@ -193,8 +193,8 @@ aside section ul li span {
 	color: white;	/*Le ponemos el mismo estilo que si no fuera enlace*/
 }
 
-#Navinicio:hover {
-	color: orange;
+#NavInicio:hover{
+	color:orange;
 }
 
 #NavEmpresas:hover {
