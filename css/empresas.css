@@ -1,20 +1,20 @@
 /* EMPRESAS STYLE */
 
 img.Imagen {
-	width: 202px;
-	height: 101px;
+        width: 202px;
+        height: 101px;
 }
 
 img.Imagen:hover {
-	-webkit-transform: scale(1.70); /*Para que se pueda ver la transformación en chrome y safari*/
-	transform: scale(1.70);
-	background-color: grey;
+        -webkit-transform: scale(1.70); /*Para que se pueda ver la transformación en chrome y safari*/
+        transform: scale(1.70);
+        background-color: transparent;
 }
 
 table {
-	margin: 30px 30px 30px 100px;
+        margin: 30px 30px 30px 100px;
 }
 
 #Empresa {/*Letra h2 de Empresa Colaboradoras*/
-	margin-left: 15px;
+        margin-left: 15px;
 }
