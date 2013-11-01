@@ -73,8 +73,9 @@ nav {
 	position: fixed;
 	border-radius: 10px;
 	background-color: #000000;
-	margin-left: 6px;
-	width: 110px;
+	margin-top: 1%;
+	margin-left: 1%;
+	width: 15%;
 }
 
 ul.lista {
@@ -82,7 +83,7 @@ ul.lista {
 }
 
 nav ul li {
-	padding: 5px;
+	padding: 8%;
 	color: white;
 }
 
@@ -184,6 +185,7 @@ aside{
 	top:45%;
 	left:4%;
 }
+
 
 
 #Titulo{
