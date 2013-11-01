@@ -24,7 +24,7 @@ header{
 	width: 100%;
 	height: 85px;
 	border: 1px solid;
-	/*background:lightblue;*/
+	background:lightblue;
 	background-color: #000000;
 	background-image: -webkit-linear-gradient(left, #000000, #f1f1f1);
 	background-image: -moz-linear-gradient(left, #000000, #f1f1f1);
@@ -187,7 +187,6 @@ aside{
 }
 
 
-
 #Titulo{
 	font-size: 175%;
 	font-weight: bold;	
@@ -199,7 +198,7 @@ aside{
 	height: 45%;
 /*	height: 350px;*/
 	min-height: 40%;
-	min-width: 50%;
+	min-width: 60%;
 }
 
 
@@ -210,7 +209,7 @@ aside{
 #img_right{
 	position:absolute;
 	top:2%;
-	left:80%;
+	right:1%;
 }
 
 
@@ -228,10 +227,20 @@ aside{
         margin-bottom:1%;
 }
 
-.section4, .section6{
+.section4{
+	float:left;
+	width: 31%;	
+	height: 20%;
+	margin-top: 1%;
+	margin-left: 1%;
+}
+
+.section6{
 	float:left;
 	width: 38%;	
 	height: 20%;
+	margin-top: 1%;
+	margin-left: 1%;
 }
 
 .section5{
@@ -242,11 +251,17 @@ aside{
 	margin-right: 1%;
 	/*height: 18%;*/
 	
-	
-	
-    max-width: 100%;
-    height: auto; 
     width: auto;
+    height: auto;
+}
+
+.logoUMA2{
+
+	height: auto; 
+    width: auto;
+	min-width: 22%;
+    max-width: 100%;
+	 overflow: scroll;
 }
 
 footer{
