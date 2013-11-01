@@ -35,7 +35,8 @@ UPDATE1
 		(He estado mirando y probando soluciones encontradas por internet pero no consiguen lo que queremos. Otra opcion que existe es darle un tamaño fijo y cuando el usuario
 		redimensione la pagina, que aparezcan scroll en los bordes y no modificar el tamaño. Esto pasa en la pagina de riatec. Mirarlo por si os convence).
 			 
-	- Solucionar el problema de los iconos del footer  en Firefox, en el resto de navegadores funciona correctamente
+	- Solucionar el problema de los iconos del footer  en Firefox, en el resto de navegadores funciona correctamente. (En IE aparece el punto azul. Cuando posiciones el cursor encima, 
+	cambia de color pero no aparece el icono. Solo me funciona bien en Chrome)
 	
 	- Fallos en el zoom sobre las imágenes en la segunda página. (Lo he estado probando y me funcionan bien en IE, Firefox, y Chrome. ¿Que es lo que falla?)	
 	
