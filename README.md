@@ -34,7 +34,7 @@ UPDATE1
 	- Realizar el escalado de las imágenes utilizando solamente CSS3 (si es posible)
 	- Solucionar el problema de los iconos del footer  en Firefox, en el resto de navegadores funciona correctamente
 	- Fallos en el zoom sobre las imágenes en la segunda página 
-	- Hay que cambiar los estilos en las secciones de onieva. Especialmente el Header (que ahora mismo coincide con el header de la cabecera), bordes y fondos
+	- (Realizado) Hay que cambiar los estilos en las secciones de onieva. Especialmente el Header (que ahora mismo coincide con el header de la cabecera), bordes y fondos
 	- Poner todos los tamaños relativos (tanto en letra, posición e imágenes).
 	- Parte de nav: Demasiado pequeño. Necesario cambiar de estilo. Situarlo en el centro del hueco dejado por el cuerpo.
 	- Parte del aside: Asegurar la correcta posición en todos los navegadores de los elementos del aside. (en explorer no va fino)
