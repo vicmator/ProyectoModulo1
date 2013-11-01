@@ -37,7 +37,7 @@ UPDATE1
 	- (Realizado) Hay que cambiar los estilos en las secciones de onieva. Especialmente el Header (que ahora mismo coincide con el header de la cabecera), bordes y fondos
 	- Poner todos los tamaños relativos (tanto en letra, posición e imágenes).
 	- Parte de nav: Demasiado pequeño. Necesario cambiar de estilo. Situarlo en el centro del hueco dejado por el cuerpo.
-	- Parte del aside: Asegurar la correcta posición en todos los navegadores de los elementos del aside. (en explorer no va fino)
+	- (Realizado) Parte del aside: Asegurar la correcta posición en todos los navegadores de los elementos del aside. (en explorer no va fino)
 	- Muchas etiquetas strong... sería mejor usar css.
 	- He visto header y dentro un h1 para un texto... el estilo puede hacerse sólo con h1 o sólo con header utilizando css
 	- Es necesario más cohesión en los estilos de la página.
