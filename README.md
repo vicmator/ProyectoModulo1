@@ -36,7 +36,9 @@ UPDATE1
 		redimensione la pagina, que aparezcan scroll en los bordes y no modificar el tamaño. Esto pasa en la pagina de riatec. Mirarlo por si os convence).
 			 
 	- Solucionar el problema de los iconos del footer  en Firefox, en el resto de navegadores funciona correctamente
-	- Fallos en el zoom sobre las imágenes en la segunda página 	
+	
+	- Fallos en el zoom sobre las imágenes en la segunda página. (Lo he estado probando y me funcionan bien en IE, Firefox, y Chrome. ¿Que es lo que falla?)	
+	
 	- Poner todos los tamaños relativos (tanto en letra, posición e imágenes).
 	
 	- Parte de nav: Demasiado pequeño. Necesario cambiar de estilo. Situarlo en el centro del hueco dejado por el cuerpo. (He modificado un poco el aspecto. Igual podríamos quedar el lunes
