@@ -151,7 +151,7 @@ body{
 }
 
 aside{
-	width: 65%;
+	width: 72%;
 	float:right;
 	padding-right:2%;
 	margin-top:2%;
@@ -176,13 +176,19 @@ aside{
 }
 
 #uma_logo{
-	max-width:165px;
-	max-height:156px;
+	max-width:160px;
+	max-height:150px;
 	height:auto;
 	width:auto;	
 	position:absolute;
 	top:45%;
-	left:8%;
+	left:4%;
+}
+
+
+#Titulo{
+	font-size: 175%;
+	font-weight: bold;	
 }
 
 #section1{
@@ -190,7 +196,6 @@ aside{
 	width: 75%;
 	height: 45%;
 /*	height: 350px;*/
-	border:#FF0030 4px dashed;
 	min-height: 40%;
 	min-width: 50%;
 }
@@ -217,7 +222,6 @@ aside{
         float:right;
         width:80%;
         height:210px;
-        background:yellow;
         margin-top:1%;
         margin-bottom:1%;
 }
@@ -267,7 +271,7 @@ aside header{
 aside section {
 	width:30%;
 	float:left;
-	margin-left:2.5%;
+	margin-left:2%;
 	margin-top:10px;
 }
 
