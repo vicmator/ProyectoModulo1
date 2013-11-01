@@ -236,11 +236,17 @@ aside{
 
 .section5{
 	float:left;
-	width: 22%;	
+	/*width: 22%;*/	
 	margin-top: 3%;
 	margin-left: 1%;
 	margin-right: 1%;
-	height: 18%;
+	/*height: 18%;*/
+	
+	
+	
+    max-width: 100%;
+    height: auto; 
+    width: auto;
 }
 
 footer{
