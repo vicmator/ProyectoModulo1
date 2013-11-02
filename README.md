@@ -55,3 +55,11 @@ UPDATE1
  - (Realizado) He visto header y dentro un h1 para un texto... el estilo puede hacerse sólo con h1 o sólo con header utilizando css
  - (Realizado) Hay que cambiar los estilos en las secciones de onieva. Especialmente el Header (que ahora mismo coincide con el header de la cabecera), bordes y fondos
  - (Realizado) Parte del aside: Asegurar la correcta posición en todos los navegadores de los elementos del aside. (en explorer no va fino). Lo he probado en IE, Chrome y Firefox.
+
+
+Victor (Cualquier cambio que veáis que no es del agrado, lo quito y punto)
+- (Realizado) He quitado el borde del header y creo que queda mejor.
+- (Realizado) He cambiado el color del nav lateral, ya que al dejarlo negro, la página quedaba muy oscura y sosa, ahora creo que le da un poco mas de luz y encaja con el color del aside.
+- (Realizado) Las imágenes de empresas, al hacer el hover se aumentan y se le pone un fondo transparente para que se pueda apreciar mejor la imagen.
+- (Realizado) He colocado en el header los iconos de Facebook para que que quede mejor la cabecera, ya que quedaba bastante pobre. Lo he hecho directamente con la imágen, ya que al hacerlo con css como se estaba haciendo daba algunos errores en algunos navegadores.
+- (Cambio) He puesto un poco mas de espacio entre los títulos de la sección 1 y sus párrafos, para que no quede tan pegado todo.
