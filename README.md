@@ -63,3 +63,12 @@ Victor (Cualquier cambio que veáis que no es del agrado, lo quito y punto)
 - (Realizado) Las imágenes de empresas, al hacer el hover se aumentan y se le pone un fondo transparente para que se pueda apreciar mejor la imagen.
 - (Realizado) He colocado en el header los iconos de Facebook para que que quede mejor la cabecera, ya que quedaba bastante pobre. Lo he hecho directamente con la imágen, ya que al hacerlo con css como se estaba haciendo daba algunos errores en algunos navegadores.
 - (Cambio) He puesto un poco mas de espacio entre los títulos de la sección 1 y sus párrafos, para que no quede tan pegado todo.
+
+Fran (Revisión de la página a las 00:47 del 3/11)
+- (TAREA) Las imágenes de la página de empresa al hacer su pop up se superponen unas con otras quedando un efecto bastante feote (probado en firefox y chrome)
+- (TAREA) Logos de twitter y facebook los retiraré de la cabecera.
+- (TAREA)Sigue sin gustarme del todo el nav... 
+- (TAREA) Los textos están desangelados... hay que darle más vida.
+- (REALIZANDO) Redimensionado de imágenes
+- (REALIZANDO) Arreglo de los iconos del footer en firefox.
+- (REALIZANDO) Realce general de los estilos de la página. El domingo 3 estaré todo el día dedicado a ello.
