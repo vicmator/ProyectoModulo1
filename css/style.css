@@ -34,7 +34,7 @@ header h1 {
 	float: left;
 	font-size: 30px;
 	margin-top: 30px;
-	margin-left: 30px;
+	margin-left: 60px;
 }
 
 header h1 strong {
@@ -45,7 +45,7 @@ header h1 strong {
 #logo {
 	width: 177px;
 	height: 50px;
-	margin-left: 4px;
+	margin-left: 16px;
 	margin-top: 15px;
 	float: left;
 }

@@ -1,0 +1,21 @@
+
+#Empleo {
+	font-size: 100%;
+	margin-left: 2%;
+	font-weight: bold;
+}
+
+.graficaSup {
+	float:left; 
+	margin-top: 5%;
+	margin-left: 22%;
+	width: 50%; 
+}
+
+.graficaInf { 
+	float:left;
+    margin-top: 3%;
+	margin-left: 22%; 
+	margin-bottom: 3%;
+	width: 50%;
+}

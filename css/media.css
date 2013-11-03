@@ -1,0 +1,41 @@
+#Media {
+	font-size: 100%;
+	margin-left: 2%;
+	font-weight: bold;
+}
+
+img.tripticoA {
+        width: 36%;
+        height: 30%;
+        margin-left: 1%;
+}
+
+img.tripticoA:hover {
+        -webkit-transform: scale(1.80); /*Para que se pueda ver la transformación en chrome y safari*/
+        transform: scale(1.80);
+        background-color: transparent;
+}
+
+img.tripticoB {
+        width: 36%;
+        height: 30%;
+        margin-right: 1%;
+        margin-left: 1%;
+}
+
+img.tripticoB:hover {
+        -webkit-transform: scale(1.80); /*Para que se pueda ver la transformación en chrome y safari*/
+        transform: scale(1.80);
+        background-color: transparent;
+}
+img.Cartel4Ed {
+        width: 23%;
+        height: 30%;
+        margin-right: 1%;
+}
+
+img.Cartel4Ed:hover {
+        -webkit-transform: scale(1.70); /*Para que se pueda ver la transformación en chrome y safari*/
+        transform: scale(1.70);
+        background-color: transparent;
+}

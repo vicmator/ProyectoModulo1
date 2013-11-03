@@ -1,0 +1,50 @@
+#opiniones {
+	font-size: 100%;
+	margin-left: 2%;
+	font-weight: bold;
+}
+
+
+table, table.fullTable{
+    width: 90%;
+    margin: auto;
+	margin-top: 1%;
+	margin-bottom: 1%;
+    background-color: rgba(0,0,0, 0.2);
+    text-align: left;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    border-radius: 18px;
+    padding: 8px;
+}
+
+.fullTable {
+	    font-size: 14px ;
+}
+
+	   
+
+.fullTable tr:nth-child(even) td{
+	  -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    border-radius: 18px;
+    background-color: 	#2A75A9;
+	text-align: left ;
+		  padding: 8px ;
+	  margin-bottom: 9px ;
+
+}
+
+.fullTable tr:nth-child(odd) td{
+	  -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    border-radius: 18px;
+	  text-align: right ;
+	  padding: 8px ;
+	  margin-bottom: 9px ;
+	      background-color: #7EB5D6;
+
+}
+
+
+
