@@ -65,10 +65,10 @@ Victor (Cualquier cambio que veáis que no es del agrado, lo quito y punto)
 - (Cambio) He puesto un poco mas de espacio entre los títulos de la sección 1 y sus párrafos, para que no quede tan pegado todo.
 
 Fran (Revisión de la página a las 00:47 del 3/11)
-- (TAREA) Las imágenes de la página de empresa al hacer su pop up se superponen unas con otras quedando un efecto bastante feote (probado en firefox y chrome)
-- (TAREA) Logos de twitter y facebook los retiraré de la cabecera.
-- (TAREA)Sigue sin gustarme del todo el nav... 
-- (TAREA) Los textos están desangelados... hay que darle más vida.
-- (REALIZANDO) Redimensionado de imágenes
-- (REALIZANDO) Arreglo de los iconos del footer en firefox.
-- (REALIZANDO) Realce general de los estilos de la página. El domingo 3 estaré todo el día dedicado a ello.
+- (REALIZADO) Las imágenes de la página de empresa al hacer su pop up se superponen unas con otras quedando un efecto bastante feote (probado en firefox y chrome)
+- (REALIZADO) Logos de twitter y facebook los retiraré de la cabecera.
+- (REALIZADO)Sigue sin gustarme del todo el nav... 
+- (REALIZADO) Los textos están desangelados... hay que darle más vida.
+- (SIN HACER) Redimensionado de imágenes
+- (REALIZADO) Arreglo de los iconos del footer en firefox.
+- (REALIZADO) Realce general de los estilos de la página. El domingo 3 estaré todo el día dedicado a ello.
